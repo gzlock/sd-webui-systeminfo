@@ -1,8 +1,5 @@
 import gradio as gr
-from fastapi import FastAPI
 import sys
-import jinja2
-
 
 table_template = """
 <table>
